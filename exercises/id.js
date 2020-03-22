@@ -8,7 +8,7 @@
 
 // Your code:
 function id(strictEqual) {
-    return strictEqual = id
+    return id = strictEqual
 }
 
 //* Begin of tests
