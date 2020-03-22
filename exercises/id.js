@@ -7,8 +7,8 @@
  */
 
 // Your code:
-function id(length) {
-    return length = 1
+function id(strictEqual) {
+    return strictEqual = id
 }
 
 //* Begin of tests
