@@ -7,8 +7,8 @@
  */
 
 // Your code:
-function id(strictEqual) {
-    return id = strictEqual
+function id(argument) {
+    return  argument
 }
 
 //* Begin of tests
